@@ -1,0 +1,5 @@
+discord
+os
+
+
+pip install -r requirements.txt to copy everything (delete this before)
