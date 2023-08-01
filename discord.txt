@@ -1,3 +1,0 @@
-Inv link:https://discord.com/api/oauth2/authorize?client_id=1107504857121828866&permissions=1634235578432&scope=bot
-
-Token:MTEwNzUwNDg1NzEyMTgyODg2Ng.G6V7p4.nwbF0VEGk1VFJH5jfRmqH_cuXNipcUVFkMArB0
